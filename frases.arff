@@ -1,0 +1,17 @@
+@relation Frases.symbolic
+@attribute Palavra numeric
+@attribute Parametros numeric
+@attribute Length numeric
+@attribute Dificuldade {facil,medio,dificil}
+
+@data
+5,2,34,facil
+10,6,52,medio
+18,8,70,dificil
+4,1,20,facil
+6,3,30,facil
+9,5,50,medio
+20,9,78,dificil
+7,2,27,facil
+22,7,80,dificil
+15,4,60,medio
